@@ -17,4 +17,4 @@ $
 
 ## Status
 
-[x] Qualitative Data Analysis
+- [x] Qualitative Data Analysis
