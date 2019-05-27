@@ -9,5 +9,7 @@ List of Project and branches:
 
   1. Project AV & OA
     Title: Acceptability of Autonomous Vehicles among Older Adults
+    
     REB #: 17-5510.5 
-    PIs: Dr. Alex MIhaildis, Dr. Jennif
+    
+    PIs: Dr. Alex MIhaildis, Dr. Jennifer Campos
