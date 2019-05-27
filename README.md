@@ -7,10 +7,14 @@
     PIs: Dr. Alex MIhaildis, Dr. Jennifer Campos
 
 
-## Snapshot of Data Collection
+## Snapshot of Data 
 
 $
 \begin{Table}[h!]
   \begin{center}
     
 $
+
+## Status
+
+[x] Qualitative Data Analysis
