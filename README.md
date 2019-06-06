@@ -1,13 +1,6 @@
 # Navigating through AUTOVHEICELS Workspace 
 
-This repository has multiple branches corresponding to different projects.
-You can access projects from the bar above and you can acceess brancehs by changing the the brach from master to the project name.
-
-We are currently in the master branch but in order to navigate to each project you need to select the correponding branch.
-
-List of Project and branches:
-
-  1. Project AV & OA
+## Project AV & OA
   
     Title: Acceptability of Autonomous Vehicles among Older Adults
     
@@ -15,4 +8,21 @@ List of Project and branches:
     
     PIs: Dr. Alex MIhaildis, Dr. Jennifer Campos
 
-2. Project PWD & OA...
+
+## Snapshot of Data 
+
+$
+\begin{Table}[h!]
+  \begin{center}
+    
+$
+
+## Status
+
+- Qualitative Data Analysis
+  - [x] AVAM Scores and Dispositional Factos
+  - [x] AVAM Scores and Situational Factors (Internal:Mood, External: Drivign Conditions)]
+  - [] AVAM Scores as a function of order of scenario
+  - [] AVAM Scores as a function of 
+  
+- Gaze Behaviour Analysis
